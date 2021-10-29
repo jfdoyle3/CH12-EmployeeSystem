@@ -13,7 +13,7 @@ docker run jfdoyle3/employee-system
 # Publish container - container runs, works like it should web browser responds
 docker run --publish 8080:8080 jfdoyle3/employee-system
 
-# Docker Push
+# Docker Push to make public
 docker push jfdoyle3/employee-system
 
 
