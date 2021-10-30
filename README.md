@@ -40,7 +40,7 @@ https://spring.io/guides/gs/spring-boot-docker/#:~:text=docker%20build%20-t%20sp
 
 - Push to github.
 
-- Copy employeesystem-0.0.1-SNAPSHOT.jar file from \build\libs to a directory called \deployments (make have to create)
+- Copy employeesystem-0.0.1-SNAPSHOT.jar file from \build\libs to a directory called \deployments (may have to create)
 
 - Push to github.  Check github to ensure the changes are there.
 
